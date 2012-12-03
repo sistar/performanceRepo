@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+<rootpath>"/rest"</rootpath>
+<jboss-as>
+<as7>
+<configured>PROJECT</configured>
+<jboss-home>/home/rsi/Downloads/jboss-as-7.1.1.Final</jboss-home>
+</as7>
+</jboss-as>
+<rest>
+<applicationclass>
+<package>com.opitz_consulting.demo.performanceRepo.entities</package>
+<name>/home/rsi/projekte/performanceRepo/src/main/java/com/opitz_consulting/demo/performanceRepo/entities/MyApplication.java</name>
+</applicationclass>
+</rest>
+</configuration>
